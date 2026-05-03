@@ -43,3 +43,20 @@ tôi tên là ***quốc*** đây là chữ *nghiêng*
 ```
 ---
 dcm 
+
+
+| Vai trò | User | Password |
+|---|---|---|
+| quản lý | manager | 123456 |
+| nhân viên | employee | ```123456``` |
+
+> note: dcmm 
+
+
+
+
+| Vai trò | Username | Password |
+|---|---|---|
+| Quản lý (Manager) | manager | 123456 |
+| Nhân viên lễ tân (Receptionist) | receptionist | 123456 |
+| Thợ cắt tóc (Stylist) | stylist | 123456 |
