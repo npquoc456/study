@@ -29,6 +29,8 @@ ___
 
 tôi tên là **Quốc** tôi đang dùng __git__
 
+tôi tên là ***quốc*** đây là chữ *nghiêng*
+
 **3. Khối code HTML**
 *Cách viết trong Markdown:*
 ```markdown
