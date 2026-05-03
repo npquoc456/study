@@ -1,6 +1,2 @@
 test cua nguoi khac
-<<<<<<< HEAD
 toi da test
-=======
-toi dang test 
->>>>>>> 9cd28e30bfca2f4859a62fc0df3a94e605fbf49a
